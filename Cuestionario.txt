@@ -1,0 +1,11 @@
+¿Qué entiende como "commit"?
+Es guardar cambios en el repositorio
+
+¿Qué entiende como "merge"?
+Es fusionar una rama en el repositorio
+
+
+¿Cuál es la diferencia entre "Pull" y "Push"?
+pull es recibir datos de una rama en el repositorio
+
+push es subir los datos de una rama en el repositorio
