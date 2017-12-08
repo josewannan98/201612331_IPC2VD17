@@ -1,0 +1,7 @@
+Desarollo en Cascada
+Es denominado asi debido a la posicion de sus fases en el desarollo de la misma, cabe resaltar que se diferencia de las
+demas debido a que si ya se finalizo una etapa no se puede realizar una regresion a la etapa finalizada, es incongruente, su orden
+es riguroso y estricto. 
+De esta manera cualquier error de diseño detectado en la etapa de prueba se conduciria al rediseño y recodificacion de la misma
+provocando perdidas o gasto de tiempo en su desarollo. 
+Su funcionameinto esta orientado a documentos, es un modelo muy conocido y se utiliza con demasiada frecuencia. 

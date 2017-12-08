@@ -1,0 +1,21 @@
+Ciclo de Vida del Software
+1. Analisis
+En este paso se intenta plasmar la solucion del problema en papel, para un mejor desarollo del software.
+Sus funcionalidades, descripcion y el tiempo estimado de su desarollo, ademas de entre otros diagramas, todos
+en un lenguaje universal UML 
+2. Diseño 
+En este paso se intenta construir un modelo del sistema que se utilizara, como se realizara, como debe de ser 
+construido, en este se definiran las relaciones con la base de datos, y para proceder a realizar ciertos modelos
+estandarizados.
+3. Desarollo
+En esta etapa se inicia con la codificacion de la solucion del sistema, en esta etapa se intenta plasmar todo lo relacionado
+con la documentacion presentada en las etapas anteriores, debe de ser claro, limpio y ordenado, para un mejor manejo y control 
+de los mismos. 
+4. Pruebas
+En esta etapa se intenta corregir problemas menores, arreglos o errores accidentales, ya que si se entrega sin haber trancurrido
+por esta fase, puede ser malicioso, ya que aun no se sabria si el software seria eficiente al ser liberado al cliente o no.
+5. Implementacion
+Ya que en la etapa de prueba se corrigieran todos los errores en esta etapa el software se libera al publico o se entrega 
+al cliente.
+6. Mantenimiento
+En esta etapa se procede a realizar actualizaciones del software y demas. 

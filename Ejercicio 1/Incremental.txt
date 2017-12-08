@@ -1,0 +1,12 @@
+Desarollo iterativo incremental 
+
+En este tipo de modelado o desarollo es mas comun realizar iteraciones entre las distintas etapas, hecho que por razones
+algunas es necesario en la codificacino del software o desarollo de la misma.
+
+En esta etapa, el producto y sus especificacion son definidas desde el inicio, pasando por un cicli iterativo en el que se desarolla
+el software, cabe resaltar que se puede reaizar multiples iteraciones, si fuese necesario para la construccion del problema.
+
+Tambien es denominado agil.
+
+Lo que se busca con este tipo de desarollo es que en una unica sola iteracion se incluya las pruebas, desarollo, documentacion y diseño
+de la misma, y que el equipo pueda cumplir con el objetivo.
